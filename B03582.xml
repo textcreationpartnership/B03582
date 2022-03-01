@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A modest vindication of the case of John Giffard gent· And an answer to the reply of the preservators of Deane Forest. With certain reasons why those iron works should not be demolished untill his stock be wrought out.</title>
+            <author>Giffard, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03582</idno>
+            <idno type="STC">Wing G692</idno>
+            <idno type="STC">ESTC R177407</idno>
+            <idno type="EEBO-CITATION">51617645</idno>
+            <idno type="OCLC">ocm 51617645</idno>
+            <idno type="VID">175238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175238)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2723:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A modest vindication of the case of John Giffard gent· And an answer to the reply of the preservators of Deane Forest. With certain reasons why those iron works should not be demolished untill his stock be wrought out.</title>
+                  <author>Giffard, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Imperfect: staining with some loss of text.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Forests and forestry --  England --  Early works to 1800.</term>
+               <term>Land use, Rural --  England --  Early works to 1800.</term>
+               <term>Dean, Forest of (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="modern_library_bookplate">
+            <pb facs="tcp:175238:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <p>
+               <hi>Columbia Vniversity in the City of New York</hi> LIBRARY</p>
+            <figure>
+               <figDesc>seal of Columbia University</figDesc>
+               <head>
+                  <g ref="char:yhwh">יהוה</g> SIGILLVM · COLLEGII · COLVMBIAE ·  · EBORACI</head>
+               <q>
+                  <p>In LVMINE TVO VIDEBIMVS LVMEN</p> 
+                  <bibl>1 PET 11 12 &amp;c.</bibl>
+               </q>
+            </figure>
+            <p>THE SELIGMAN LIBRARY OF ECONOMICS PURCHASED BY THE UNIVERSITY 1929</p>
+            <pb facs="tcp:175238:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+         </div>
+      </front>
+      <body>
+         <div type="list_of_reasons">
+            <pb facs="tcp:175238:2"/>
+            <!-- PDF PAGE 116 -->
+            <pb n="1" facs="tcp:175238:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 116 -->
+            <head>A modeſt Vindication of the Caſe of <hi>John Giffard</hi> Gent. And an Anſwer to the Reply of the Preſer<g ref="char:EOLhyphen"/>vators of Deane Forreſt.</head>
+            <list>
+               <head>With certain Reaſons why thoſe Iron Works ſhould not be demoliſhed untill his ſtock be wrought out.</head>
+               <item>1 <seg rend="decorInit">I</seg>T ſeems not a little ſtrange to the Vindicator, That the Remonſtrance of Parliament of Decemb. 15. 1641. ſhould be uſed as an Argument for deſtruction of his Iron Works in the Forreſt of Deane, which by a ſpeciall Ordinance of Parliament of October 27. 1645. (notwithſtanding the ſaid Remonſtrance) were thought fit by the judgment of the ſame Parliament to be continued: and by the ſame Ordinance aſſigned wood for the ſupply thereof. And though the Parliament did give order to demoliſh all the Iron Works in the ſaid Forreſt, and yet were afterwards pleaſed upon juſt Grounds and Reaſons to continue Mr. <hi>Giffards,</hi> it ought not to ſeeme ſtrange to any well-affected perſons, eſpecially the Preſer<g ref="char:EOLhyphen"/>vators of that Forreſt, what the Parliament upon ſubſe<g ref="char:EOLhyphen"/>quent debate and mature deliberation have done therein for relief of the ſaid <hi>Giffard</hi> in proſecution of the ſaid Ordinance.</item>
+               <item>2. To the ſecond: And it cannot be conſtrued leſſe then ſuperlative boldneſſe in the Penner of that Reply, to render the Order and Reſult of Parliament as an act of <hi>very great injustice,</hi> that other Works that were built up<g ref="char:EOLhyphen"/>on
+<pb n="2" facs="tcp:175238:3"/>
+                  <!-- PDF PAGE 117 -->
+the inheritance of private Gentlemen in the Forreſt were pulled down, though not one of the Owners of the ſaid Works held theirs, or had wood aſſigned them by ſpeciall Ordinance of Parliament, or did petition for re<g ref="char:EOLhyphen"/>lief, although they were not ignorant the ſaid Vote did concern all other the Iron Works in the ſaid Forreſt, as well as the ſaid Mr. <hi>Giffards.</hi> Beſides the Preſervators wel know that other Works are continued in the Forreſt which have ſpent the Forreſt wood, and that one of the ſaid Preſervators hath lately begun to build a Furnace within that Forreſt, which cannot long be kept going without making uſe of the Forreſt wood. And whoſoever will without prejudice view the printed Caſe of the ſaid <hi>Giffard,</hi> and the Parliaments Order of Reference to the honourable Committee of Revenue thereupon, and their Report to the Houſe, will find ſufficient Reaſons given for continuance of thoſe Works till his ſtock be wrought out, and not grounded upon bare pretences and allegati<g ref="char:EOLhyphen"/>ons, as by the Preſervators is ſuggeſted.</item>
+               <item>3. And why a deſigne of their progenitors driven on for fifty yeares and upwards, whom they magnifie to have been men of publike ſpirits, ſhould now <hi>(for private inte<g ref="char:EOLhyphen"/>reſt)</hi> be drawn into example to the utter ruine of a par<g ref="char:EOLhyphen"/>ticular perſon, that hath had no wood in the ſaid Forreſt but what he hath juſtly paid for, nor hath any power or potency for his protection but the mercy and juſtice of Parliament, againſt ſuch powerful &amp; prevalent Adverſaries. And why the juſt and pious intentions of the Parliament to relieve a diſtreſſed perſon, ſhould be prejudicated or in<g ref="char:EOLhyphen"/>terpreted <hi>a daſhing of the hopes of thouſands pretended to be greater ſufferers for the Parliament then</hi> Mr. Giffard, he underſtands not the reaſon of that aſſertion. Neither in<g ref="char:EOLhyphen"/>deed can it be made appeare, that any one of thoſe thou<g ref="char:EOLhyphen"/>ſands (which in truth are but few hundreds) have in any meaſure proportionably been ſo great ſufferers as the Vin<g ref="char:EOLhyphen"/>dicator. And there was never heretofore any preſident of pulling down Iron VVorks before the ſtock was wrought out, nor any Petition preferred to that end, till of late
+<pb n="3" facs="tcp:175238:3"/>
+                  <!-- PDF PAGE 117 -->
+moſt injuriouſly againſt Mr. <hi>Giffard,</hi> whereby it plainly appears there is a ſlie deſigne and ſelf-intereſt driven on by the Petitioners, beyond the preſervation of wood and timber, which was the chief pretence.</item>
+               <item>4. And is it not a high preſumption in the Penners of that Reply, to aſſert that what the Parliament hath done or ſhall do in altering their reſolutions, is in a charitable gratification to the inſinuations of a private man, thereby adjudging and cenſuring the paſt and future tranſactions of Parliament upon bare and ſpecious pretences, though in truth founded upon the grounds of juſtice, equity and reaſon, an unparallell'd boldneſſe without preſident or example: And though the Parliament hath been pleaſed to refer the Petition of the ſaid <hi>Giffard</hi> to a Committee of theirs, to conſider how the woods of the Forreſt may be preſerved from conſumption by reaſon of his Iron-works, and how the Petitioner may have relief, and report their O<g ref="char:EOLhyphen"/>pinions to that honourable Houſe; yet in oppoſition to the ſaid Order of Parliament, they inſinuate that the ſaid <hi>Giffards</hi> juſt requeſts are pretentions rather then reall truths, thereby indeavouring to obſtruct the Report, and hinder reliefe to the Petitioner, till the ſaid buſineſſe be examined, though they very well know that if that Report be not made before the 25. of this inſtant March, all his works will be pulled down to the ground, &amp; he thereby totally ruined before he can be heard; and reſt not there, but ſtate an abſtruſe queſtion, whether it be charitable or honorable to gratifie the deſires of one man, to the apparent loſſe of the State, and diſadvantage of ſo well deſerving a people. But wherein this apparent loſſe to the State, or diſadvantage to the people lies, they neither do nor can ſet forth. For, ſufficient ſecurity being given that no wood or timber in that Forreſt ſhall be cut or diminiſhed by Mr. <hi>Gif<g ref="char:EOLhyphen"/>fard</hi> his Servants or Workmen for his uſe upon any pretence whatſo<g ref="char:EOLhyphen"/>ever, during the time to be granted him for working out his ſtock, which is the Order and Report of the ſaid honourable Committee of the Revenue, and their opinion that he may have a yeares time from Lady day next allowed for that purpoſe. It is impoſſible there can be any loſſe to the State, or diſadvantage to the people; and therefore ad<g ref="char:EOLhyphen"/>mires the Penman does not bluſh to ſuggeſt ſo great a fallacy, Where<g ref="char:EOLhyphen"/>as the continuing of thoſe Works till the ſtock (already bought) be wrought out, will be of very great advantage to this Commonwealth, in keeping down the price of iron, which (ſince the late demoliſhing of ſome Works in that Forreſt) is much advanced, and will be raiſed higher, if thoſe Works ſhould be ſuddenly demoliſhed.</item>
+               <item>5. The fifth is fully anſwered in the ſecond Article.</item>
+            </list>
+         </div>
+         <div type="list_of_responses">
+            <pb n="4" facs="tcp:175238:4"/>
+            <!-- PDF PAGE 118 -->
+            <list>
+               <head>Anſwer to the Objections againſt the ſeverall Reaſons in the Caſe of Mr. <hi>Giffard,</hi> for obtaining time to work out his Stock.</head>
+               <item>1. FIrſt it is alledged, that the greater part of the wood he hath coal'd was timber, but doth not nominate any place where the ſaid timber was coal'd, or of whom it was bought: if the Author and penner of it would have it ſuppoſed to be timber of the Forreſt of Dean, that is both improbable and untrue, notwithſtanding his pretence of proof by the Commiſſi<g ref="char:EOLhyphen"/>on; for the Surveyor and four Preſervators of the For<g ref="char:EOLhyphen"/>reſt formerly appointed and authoriſed by the Honoura<g ref="char:EOLhyphen"/>ble Committee of the Revenue to ſet out the Fellet, and deliver the wood which was by them ſold to Mr. <hi>Giffard,</hi> (which ſaid Officers in the places where they live are e<g ref="char:EOLhyphen"/>ſteemed by their Neighbours to be men of ſufficiency and integrity) did firſt bound out the Fellet, and afterwards taking the advice of a Ship-Carpenter, and of a Houſe-Carpenter, did mark all the beſt timber trees to ſtand, lea<g ref="char:EOLhyphen"/>ving the reſidue to be cut down by his workmen for the uſe of the Iron VVorks; and ſome of the ſaid Preſerva<g ref="char:EOLhyphen"/>tors were daily in the ſaid Fellet, where if they found any tree or conſiderable piece of a tree after cutting down that proved to be timber, they marked the ſame, and cau<g ref="char:EOLhyphen"/>ſed it to be ſquar'd and preſerv'd for that purpoſe, divers of which are yet to be ſeen in the Forreſt within the ſaid Fellet; by which it appears all due care was taken for pre<g ref="char:EOLhyphen"/>ſervation of the timber: and the ſaid Officers and an un<g ref="char:EOLhyphen"/>der VVoodward did as there was occaſion, deliver the
+<pb n="5" facs="tcp:175238:4"/>
+                  <!-- PDF PAGE 118 -->
+Cordwood by meaſure to Mr. <hi>Giffard</hi> or his ſervants, kee<g ref="char:EOLhyphen"/>ping a juſt account of the ſame: what hath been by him, or to his uſe received is duely paid for. He preſumes for the Reaſons herein expreſſed, none will believe that he made ſuch conſumption of timber as is ſuggeſted, and hopes that it is not to be imputed to him as a Crime, to have made uſe of ſuch wood as he bought and paid for to thoſe that had good authority to ſell the ſame; he deſires no future dealing, onely craves leave to work out his ſtock already bought, and no more.</item>
+               <item>2. To the ſecond, Mr. <hi>Giffard</hi> doth affirm that he hath ſuch a ſtock of Coal made of the Forreſt wood, as in his Caſe was truly alledged, neither can the contrary be made appear, whatever the Author or Penner pretends, thereby unjuſtly and maliciouſly aſperſing the ſaid Mr. <hi>Giffard,</hi> who though indeed he begs of the Parliament, did never make any brags of his Policy in the Countrey, nor hath made a<g ref="char:EOLhyphen"/>ny Contracts at all for Coal or VVood ſince the firſt of January laſt, but to the contrary, gave ſpeciall command to his ſervants to buy none at all, and believes they have obſerved his command, becauſe he knows of nothing to the contrary.</item>
+               <item>3. To the third, he cannot believe his ſtock of 5000. l. and upward will be worth any thing, if all the Iron Works in the ſaid Forreſt be pul'd down, for the Charcoals will be broken in pieces in removing and carriage of them to any other Iron VVork, ſo that they will not be worth the charge, and for other part of the ſtock it will be of as lit<g ref="char:EOLhyphen"/>tle value, the charge of carrying it ſo great a diſtance con<g ref="char:EOLhyphen"/>ſidered: and for his twofold anſwer that Mr. <hi>Giffard</hi> hath no ſuch ſtock of the State, by his leave that is not true, for the Coal made of the VVood he bought of the State is a great part of it, and they can ſuffer no loſſe by giving him leave to work out all his ſtock with his works which he built and repaired at his own charge, and paid two thouſand pounds for uſe of them, for five years, of which above two years and a quarter is yet to come, and unex<g ref="char:EOLhyphen"/>pired, but craves only that by the Juſtice and favour of the
+<pb n="6" facs="tcp:175238:5"/>
+                  <!-- PDF PAGE 119 -->
+Houſe he may have but one years time, and cannot doubt but that the Parliament for the Reaſons before alledged will think his requeſt juſt and reaſonable, and that he ought to have the working out his own ſtock rather then any other man. And whereas it is by ſome inſinuated, that there be Undertakers that will buy his ſtock and make him a gainer, thoſe are but meer deluſions to ſpin out the time<g ref="char:punc">▪</g> till his works by the violence of his enemies be pluckt down, whereby he may be ſilently undone, and left with<g ref="char:EOLhyphen"/>out remedy, but hopes the Parliament will never ſuffer ſo great an injury to be done to him that hath ſerved them faithfully with his life and fortune, and is ready and wil<g ref="char:EOLhyphen"/>ling to do the like again, if they ſhall have occaſion.</item>
+               <item>4. Mr. <hi>Giffard</hi> doth not deſire the continuance of the I<g ref="char:EOLhyphen"/>ron VVorks longer then to work out his ſtock, which un<g ref="char:EOLhyphen"/>der favour he hopes will be thought a very juſt and reaſo<g ref="char:EOLhyphen"/>nable requeſt: he is willing the good timber of the Forreſt ſhould be preſerved for ſhipping, and is reſolved to buy no more wood at any rate whatſoever: he will not pre<g ref="char:EOLhyphen"/>ſume to be ſo ſaucy to put interpretations upon the Votes of Parliament, as the Author of this Article doth, and for his undertakers to ſerve this Nation with forraign Iron, as good &amp; good cheap as now they have: firſt, 'tis manifeſt it will never be ſo good, and ſecondly, it is much doubted that the undertaking will not long be performed, it is heartily wiſhed that this Common-wealth (by ſad experi<g ref="char:EOLhyphen"/>ence) may not find the contrary.</item>
+               <item>5. The giving ſecurity will be found to be of value, for no wood or timber can be cut in the Forreſt for the uſe of Mr. <hi>Giffard</hi> without hazard of forfeiting the Bond, and in caſe any ſuch thing ſhould be attempted, the State, may when they pleaſe ſeize upon twenty times the value: his allegation that goodly trees have fallen to make Coal, is not to be applied to Mr. <hi>Giffards</hi> caſe, neither can there be any ſuch thing laid to his Charge or proved againſt him; he cannot juſtifie all the workmen that are imploy<g ref="char:EOLhyphen"/>ed about his Iron VVorks, but is aſſured that the greateſt part of them have been more faithfull to the Parliament,
+<pb n="7" facs="tcp:175238:5"/>
+                  <!-- PDF PAGE 119 -->
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen divers of thoſe that have put their hands to the Peti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion for pulling down Iron VVorks.</item>
+               <item>6. And for the ſadneſſe of M. <hi>Giffard's</hi> condition, and his friends, it is very evident to all, except ſuch as with<g ref="char:EOLhyphen"/>out cauſe are, or will be poſſeſt with prejudice againſt him, it is not a bare pretence, but a reall truth, nor can it be proved by able men, that M. <hi>Giffard</hi> hath gained any ſuch ſums of money as is pretended; for he hath had the works, as to his own uſe, not two years and three quarters, did pay 2000.l. for them, beſides the building and the re<g ref="char:EOLhyphen"/>pairing, which coſt above 1500.l. more, and above 1100.l. debt due to the State, which he likewiſe ſatisfied, was for<g ref="char:EOLhyphen"/>ced to take up great ſums of money to ſtock the ſaid Works, beſides his particular debts in the Country to ſe<g ref="char:EOLhyphen"/>verall poor men that are not able to forbear their money, and amongſt whom he oweth very great ſums: theſe pay<g ref="char:EOLhyphen"/>ments and other deductions conſidered, it is not probable that any ſuch great gain ſhould be made in ſo ſhort a time; the truth is, if his works be pulled down before his ſtock be wrought out, he will be ſo great a loſer thereby, that <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t will utterly ruine him, and many of his friends that are <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngaged with him: that he cannot be made a ſaver by his <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eall ſtock unleſſe he hath time to work it out, is already anſwered: It is an eaſie matter to traduce and ſcandalize a man, but a moſt difficult thing to repaire a ruined e<g ref="char:EOLhyphen"/>ſtate; they humbly and earneſtly deſire to be heard for the good of the State, but ſhew not wherein there is pro<g ref="char:EOLhyphen"/>bability of loſſe, or hope of gaine to the State: The deſigne of M. <hi>Giffards</hi> adverſaries is to retard and obſtruct any relief from the honourable Houſe untill his Works be pulled downe, and then they well know it will be too late. And why the penman of this Article ſhould pre<g ref="char:EOLhyphen"/>ſume to aver, as by the ſame is clearly meant, that an Act of Iuſtice and Mercy in the State to relieve a diſtreſſed Petitioner, ſhould be either a damage or diſhonour unto them, without better reaſons ſhewed for it, is a Paradox that wiſer men then himſelfe underſtand not.</item>
+               <item>7. In the joyning iſſue they ſpare not to alledge any
+<pb n="8" facs="tcp:175238:6"/>
+                  <!-- PDF PAGE 120 -->
+thing that may make for their purpoſe, though never ſo far different from the preſent buſineſſe: It is not hin<g ref="char:EOLhyphen"/>ted in the Caſe, nor was ever deſired, that the Works ſhould ſtand any longer then to worke out the ſtock; and as the waſte and ſpoile of timber made by others in that Forreſt, doth not concerne Mr. <hi>Giffard,</hi> the ſame ought not to be urged to his prejudice: If any thing can be laid to his charge, he deſires a fair proceeding by a le<g ref="char:EOLhyphen"/>gall triall, where he may have liberty to make his juſt defence, and that he may not be deſtroyed in an arbitra<g ref="char:EOLhyphen"/>ry way by a rude multitude, the greater part of which come to pilfer and ſteale what they can lay hands on, and covertly carry away.</item>
+               <item>8. The loſſe Mr. <hi>Giffard</hi> ſuſtained at Cirenceſter, as it cannot be denied, whenſoever it ſhall be controverted, will eaſily be proved, and for his ſuppoſed gain of 6000.l. in the Forreſt, it is a meer fiction hatch'd in the Penmans braine, and in caſe he were a gainer, it is neither juſt nor reaſonable he ſhould be deſtroyed without a cauſe. Their believing that he is not ſo fit an object of pity as others, is no rule to the Parliament, the pay that the Petitioner and his ſon received for their ſervice; was not half ſo much as as he laid out to raiſe his Troop, their compa<g ref="char:EOLhyphen"/>riſons of other mens affections cannot blaſt his fidelity, who doth not ſo urgently inſiſt upon the ſtanding of the Works, but for a reaſonable time to work out his ſtocke, which his judgement doth informe him will be both ho<g ref="char:EOLhyphen"/>norable and profitable for the Parliament to grant, and prejudiciall to no man, except ſuch as deſire to raiſe the price of Iron for their private advantage, to the manifeſt damage of the Common-wealth,</item>
+            </list>
+            <p>All which is humbly ſubmitted to the wiſdome and judgement of the Parliament, and every Member thereof, and their ſpeedy Order thereupon craved, without which ſudden deſtruction will fall upon</p>
+            <closer>
+               <signed>Your moſt humble ſervant, <hi>JOHN GIFFARD.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:175238:6"/>
+            <!-- PDF PAGE 120 -->
+         </div>
+      </body>
+   </text>
+</TEI>
